@@ -17,9 +17,9 @@ def take_a_number(katz_deli, string)
   puts "Welcome, #{string}. You are number #{katz_deli.length} in line."
 end
 
-# def now_serving (katz_deli)
+def now_serving (katz_deli)
 #   puts katz_deli[0]
 #   end
 #   katz_deli.shift
 #   puts "There is nobody waiting to be served!"
-# end
+end
